@@ -1,5 +1,5 @@
 # Projeto-Melhores-Compras
---------------------------
+
 Este projeto foi desenvolvido como trabalho para a Faculdade FIAP, com o objetivo de criar um banco de dados para a empresa Melhores Compras utilizando o SGBD Oracle e seguindo todas as Regras de negocio estabelecidas.
 
 Descrição do projeto
