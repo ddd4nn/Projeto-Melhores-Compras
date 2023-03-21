@@ -1,0 +1,12 @@
+RN 24: Usuários logados podem criar pedidos de compra, de acordo com as seguintes regras:
+
+    1. Cada pedido deve estar relacionado a um cliente e ter uma data e hora de criação obrigatórias.
+    2. Cada pedido deve ter um status que permite saber em que situação se encontra. Os status são:
+	'A - Aberto, P - Processando, F - Finalizado, C - Cancelado'.
+    3. Cada pedido pode possuir vários produtos, e cada produto pode estar em vários pedidos.
+    4. Para cada produto incluído em um pedido, deve ser especificada uma quantidade obrigatória a ser adquirida.
+    5. Cada pedido possui um valor total, que deverá ser calculado de acordo com as quantidades e valores dos produtos no pedido.
+
+As entidades criadas para aplicar a RN24 são:
+1. T_PMC_PEDIDO_COMPRA: Entidade que representa o pedido de compra.
+2. T_PMC_PRODUTOS_PEDIDO_COMPRA: Entidade que representa os produtos nos pedidos de compra.
