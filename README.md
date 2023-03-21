@@ -7,8 +7,9 @@ Descrição do projeto
 O projeto consistiu em criar um modelo lógico, relacional e físico para o banco de dados, seguindo as regras de negócio estabelecidas pela empresa. Foram utilizadas sequences, chaves estrangeiras e constraints para garantir a integridade dos dados e manter a consistência do banco.
 
 O script DDL foi criado a partir do modelo físico e rodado no banco de dados Oracle sem problemas, resultando na criação das tabelas e relacionamentos entre elas.
-Tecnologias utilizadas
 
+Tecnologias e técnicas utilizadas:
+-----------------------------------------
     Oracle Database
     SQL
     Modelo lógico e relacional
