@@ -162,7 +162,7 @@ Para os clientes pessoas jurídicas que abrem chamado, as principais informaçõ
 	
 
 Regra de negócio a ser definida pelo grupo. Escreva uma regra de negócio adicional e única de seu grupo que resulte em criar uma nova Entidade (tabela no modelo físico) que se relacione com qualquer outra Entidade já definida no seu projeto de banco de dados e que tenha no mínimo 3 atributos (sem contar a chave PK). 
-(Foi disponibilizado um arquivo contendo a regra de negócio 24 neste repositório) 
+**(Foi disponibilizado um arquivo contendo a regra de negócio 24 neste repositório)**
 
 Como foram nomeadas as estruturas de dados, tabelas e relacionamentos:
 ------------------------------------------------------------------------
